@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Fly with You!!",
+  "base_artist": "初音ミク",
+  "createdAt": "2026-01-05T05:27:02.829731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Fly with You",
+      "artist": "Gigi D'Agostino",
+      "has_synced": true,
+      "path": "select/01_I'll_Fly_with_You_Gigi_D'Agostino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Fly With You (Blah Blah Blah)",
+      "artist": "Gigi D'agostino",
+      "has_synced": true,
+      "path": "select/02_I'll_Fly_With_You_(Blah_Blah_Blah)_Gigi_D'agostino.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fly With You",
+      "artist": "Alfons",
+      "has_synced": true,
+      "path": "select/03_Fly_With_You_Alfons.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "L'amour Toujours (I'll Fly With You)",
+      "artist": "Clarice Falcão",
+      "has_synced": true,
+      "path": "select/04_L'amour_Toujours_(I'll_Fly_With_You)_Clarice_Falcão.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fly With You",
+      "artist": "Scott Brown",
+      "has_synced": true,
+      "path": "select/05_Fly_With_You_Scott_Brown.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let Me Fly with You",
+      "artist": "Lovebugs",
+      "has_synced": false,
+      "path": "select/06_Let_Me_Fly_with_You_Lovebugs.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly With You",
+      "artist": "Pete Murray",
+      "has_synced": true,
+      "path": "select/07_Fly_With_You_Pete_Murray.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "L'Amour Toujours (I'll Fly With You) (Hardstyle)",
+      "artist": "Jordiz & Lawstylez",
+      "has_synced": true,
+      "path": "select/08_L'Amour_Toujours_(I'll_Fly_With_You)_(Hardstyle)_Jordiz_&_Lawstylez.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fly With You",
+      "artist": "Sikdope",
+      "has_synced": true,
+      "path": "select/09_Fly_With_You_Sikdope.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Fly With You",
+      "artist": "Gigi D'Agostino",
+      "has_synced": true,
+      "path": "select/10_I'll_Fly_With_You_Gigi_D'Agostino.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fly With You (Radio Edit)",
+      "artist": "Sikdope & ALRT",
+      "has_synced": true,
+      "path": "select/11_Fly_With_You_(Radio_Edit)_Sikdope_&_ALRT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ill fly with you",
+      "artist": "Gigi D'Agostino",
+      "has_synced": true,
+      "path": "select/12_Ill_fly_with_you_Gigi_D'Agostino.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I’ll Fly With You",
+      "artist": "Marc Benjamin",
+      "has_synced": true,
+      "path": "select/13_I’ll_Fly_With_You_Marc_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fly With You",
+      "artist": "Boi Angel",
+      "has_synced": false,
+      "path": "select/14_Fly_With_You_Boi_Angel.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Fly with You (Original / Lyrics Video) von Gigi D'Agostino",
+      "artist": "Gigi D'Agostino",
+      "has_synced": true,
+      "path": "select/15_I'll_Fly_with_You_(Original___Lyrics_Video)_von_Gigi_D'Agostino_Gigi_D'Agostino.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fly with You!!",
+      "artist": "Nijigasaki High School Idol Club",
+      "has_synced": true,
+      "path": "select/16_Fly_with_You!!_Nijigasaki_High_School_Idol_Club.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'll Fly With You",
+      "artist": "D.J. Ultradance",
+      "has_synced": true,
+      "path": "select/17_I'll_Fly_With_You_D.J._Ultradance.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fly With You",
+      "artist": "Pete Murray",
+      "has_synced": true,
+      "path": "select/18_Fly_With_You_Pete_Murray.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'll Fly With You (L'amour toujours)",
+      "artist": "Xtc Planet",
+      "has_synced": true,
+      "path": "select/19_I'll_Fly_With_You_(L'amour_toujours)_Xtc_Planet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly with You!!",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_Fly_with_You!!_初音ミク.txt"
+    }
+  ]
+}
